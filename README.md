@@ -17,11 +17,11 @@
 Aquí puedes ver los pantallazos del proyecto:
 
 ### Pantallazo 1:
-![Dados1](path/to/Dados1.png)  
+![Dados1](Dados1.png)  
 *Interfaz principal del juego.*
 
 ### Pantallazo 2:
-![Dados2](path/to/Dados2.png)  
+![Dados2](Dados2.png)  
 *Resultado con los dados iguales.*
 
 ---
